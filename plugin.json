@@ -1,0 +1,8 @@
+{
+  "name":"HalloWelt",
+  "description":"Testplugin für David und Kasia.",
+  "namespace":"HalloWelt",
+  "author":"testuser",
+  "type":"template",
+  "serviceProvider":"HalloWelt\\Providers\\HalloWeltServiceProvider"
+}
